@@ -203,4 +203,9 @@ h1 {
     float: right;
     list-style: none;
     padding-top: 2.5%;
+    transition: all 1s;
+}
+
+.footer-list li :hover {
+    opacity: 0.75;
 }
